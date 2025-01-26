@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 import numpy as np
 import io
 
-st.title('Prediksi Biaya Asuransi Kesehatan Menggunakan Dataset Pelanggan')
+st.title('Prediksi Biaya Asuransi Kesehatan Menggunakan Algoritma Random Forest')
 
 # Membaca dataset
 with st.expander('Dataset'):
